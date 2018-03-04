@@ -5,12 +5,12 @@ show_downloads: false
 google_analytics: UA-79883090-3
 github: 
   is_project_page: true
-  owner_url: https://blog.devhitao.com # 底部拥有者链接
-  owner_name: hitao
+  owner_url: https://blog.devhitao.com # 底部项目拥有者链接
+  owner_name: hitao # 项目拥有者名字
   show_github_repo_url: false
 
 # Custom 
-show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by geshi.mobi
+show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by wumaokeji.net
 show_email: true
 admin_email: wumaokeji@126.com
 show_website_license: true
