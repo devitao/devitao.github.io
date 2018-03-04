@@ -1,0 +1,18 @@
+title: 991 真题
+description: 考研 991 真题
+theme: jekyll-theme-leap-day
+show_downloads: false
+google_analytics: UA-79883090-3
+github: 
+  is_project_page: true
+  owner_url: https://blog.devhitao.com # 底部拥有者链接
+  owner_name: hitao
+  show_github_repo_url: false
+
+# Custom 
+show_theme_author: false  # Hosted on GitHub Pages &mdash; Theme by geshi.mobi
+show_email: true
+admin_email: wumaokeji@126.com
+show_website_license: true
+company_url: https://www.wumaokeji.net
+company_name: 五毛科技
